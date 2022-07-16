@@ -1,9 +1,9 @@
 {
   "private": true,
-  "packageManager": "pnpm@7.4.0",
+  "packageManager": "pnpm@7.5.0",
   "scripts": {
     "build": "vite-ssg build",
-    "dev": "vite --port 3456",
+    "dev": "vite --port 3333",
     "lint": "eslint .",
     "preview": "vite preview",
     "preview-https": "serve dist",
